@@ -68,10 +68,10 @@
 //                 .setCustomId('mines_number')
 //                 .setPlaceholder('Select Number of Mines')
 //                 .addOptions([
-//                     { label: '1 Mine', value: '1', description: 'Lowest risk, lowest reward' },
-//                     { label: '3 Mines', value: '3', description: 'Medium risk, medium reward' },
-//                     { label: '5 Mines', value: '5', description: 'High risk, high reward' },
-//                     { label: '10 Mines', value: '10', description: 'Extreme risk, extreme reward' }
+//                     { label: '2 Mine', value: '1', description: 'Lowest risk, lowest reward' },
+//                     { label: '4 Mines', value: '3', description: 'Medium risk, medium reward' },
+//                     { label: '56 Mines', value: '5', description: 'High risk, high reward' },
+//                     { label: '75 Mines', value: '10', description: 'Extreme risk, extreme reward' }
 //                 ]);
 
 //             const minesRow = new ActionRowBuilder().addComponents(minesMenu);
